@@ -6,7 +6,7 @@ Dieses Repository enthält die Daten und Jupyter Notebooks für das Projekt "WP-
 
 - `Auswertung.ipynb`: Ein Jupyter Notebook, das die Analyse und Visualisierung der gesammelten Gesundheitsdaten durchführt.
 - `Messdaten/`: Ein Ordner, der die gesammelten Gesundheitsdaten enthält.
-- `Quellcode`: Ein Ordner in der sich der Quellcode zum auslesen der genutzen Sensoren befindet
+- `Quellcode/`: Ein Ordner in der sich der Quellcode zum auslesen der genutzen Sensoren befindet
 
 ## Installation
 
