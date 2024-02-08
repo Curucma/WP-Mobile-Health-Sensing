@@ -18,6 +18,4 @@ Nach der Installation von Anaconda können Sie das Notebook starten, indem Sie z
 
 Öffnen Sie das Jupyter Notebook `Auswertung.ipynb` und führen Sie die Zellen aus, um die Analyse und Visualisierung der Daten zu sehen.
 
-## Lizenz
 
-Dieses Projekt ist unter der MIT-Lizenz lizenziert - siehe die [LICENSE.md](LICENSE.md) Datei für Details.
